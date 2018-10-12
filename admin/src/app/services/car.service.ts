@@ -26,8 +26,8 @@ export class CarService {
     this.carList.update(car.$key, {
       name: car.name,
       plate: car.plate,
-      lat: car.lat,
-      lon: car.lon
+      lat: car.lat || 0,
+      lon: car.lon || 0
     });
   }
 
