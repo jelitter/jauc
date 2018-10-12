@@ -1,0 +1,23 @@
+<div class="card mt-5">
+  <div class="card-body">
+    <form #carForm="ngForm" (ngSubmit)="onSubmit(carForm)">
+      <div class="form-group">
+        <input type="text" class="form-control" name="name" #name="ngModel" [(ngModel)]="carService.selectedCar.name"
+          placeholder="Add Car Name">
+      </div>
+      <div class="form-group">
+        <input type="text" class="form-control" name="plate" #name="ngModel" [(ngModel)]="carService.selectedCar.plate"
+          placeholder="Add Car Plate">
+      </div>
+      <div class="form-group">
+        <button class="btn btn-primary" type="submit">
+          <i class="fas fa-plus-circle"></i> Add Car
+        </button>
+        <button class="btn btn-secondary" type="reset" (click)="resetForm(carForm)">
+          <i class="fas fa-sync-alt"></i> Reset
+        </button>
+      </div>
+
+    </form>
+  </div>
+</div>
