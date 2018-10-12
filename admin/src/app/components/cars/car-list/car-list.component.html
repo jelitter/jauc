@@ -1,3 +1,16 @@
-<p>
-  car-list works!
-</p>
+<div class="card mt-5">
+  <div class="card-body">
+    <h6 class="text-center">List of Cars</h6>
+    <table class="table table-sm table-hover table-stripped">
+      <tbody>
+        <tr *ngFor="let car of carList">
+          <td>{{ car.name }}</td>
+          <td>{{ car.plate }}</td>
+          <td>{{ car.lat }}</td>
+          <td>{{ car.lon }}</td>
+          <td><button>Edit</button></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

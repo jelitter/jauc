@@ -1,5 +1,4 @@
 import { Injectable } from '@angular/core';
-
 import { AngularFireDatabase, AngularFireList } from 'angularfire2/database';
 import { Car } from '../models/car';
 
@@ -11,15 +10,15 @@ export class CarService {
   constructor(private firebase: AngularFireDatabase) {}
 
   getCars() {
-    this.carList = this.firebase.list('cars');
+    return (this.carList = this.firebase.list('cars'));
   }
 
   addCar(car: Car) {
     this.carList.push({
       name: car.name,
       plate: car.plate,
-      lat: car.lat,
-      lon: car.lon
+      lat: 0,
+      lon: 0
     });
   }
 
