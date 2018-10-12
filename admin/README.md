@@ -1,6 +1,8 @@
+![Logo](https://pa1.narvii.com/6879/4c1c1fd197cb50a48f98d7328b5dae61dbc8f8e7r1-267-200_128.gif)
+
 # JAUC Admin Panel
 
-![Foo](src\assets\img\erd-mockup.png)
+![ERD](src/assets/img/erd-mockup.png)
 
 <br>
 <br>
