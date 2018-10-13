@@ -29,3 +29,11 @@
 -   As a user, I want to get an estimated cost of the ride from pick up to destination, so I can choose to cancel the service if I'm not ready to take this expense.
 
 -   As a user, I want to rate and review my JAUC ride, so the company can make improvements to the service to make it more suitable for me.
+
+---
+
+## Desktop Application
+
+-   As an admin, I want to see the vehicle details and status, so I can assign it to an order or have it back to the hub
+
+-   As an Admin, I want to see the location of all vehicles at once, so I can be aware of the fleet status
