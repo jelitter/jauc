@@ -50,13 +50,7 @@
 
 - As an admin, I want to see the customer booking history so I can …
 
-- As an admin, I want to receive a notification when an order has been cancelled so I can free up the assigned vehicle
-
-- As an admin, I want to receive a notification when an order has been modified so I can do the necessary updates
-
-- As an admin, I want to receive a notification when an order has been completed so I can reassign the vehicle
-
-- As an admin, I want to receive a notification when an order has been paid so ….
+- As an admin, I want to receive order status notifications so I can do the appropriate action
 
 - As an admin, I want to run reports so I can have a better understanding on how the business is going
 
