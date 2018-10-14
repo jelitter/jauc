@@ -34,6 +34,33 @@
 
 ## Desktop Application
 
-- As an admin, I want to see the vehicle details and status, so I can assign it to an order or have it back to the hub
+- As an admin, I want to see the location of all vehicles at once so I can be aware of the fleet status
 
-- As an Admin, I want to see the location of all vehicles at once, so I can be aware of the fleet status
+- As an admin, I want to see the vehicle details and status so I can assign it to an order or have it back to the hub
+
+- As an admin, I want to create other Administrator accounts so I can have other people working at the same time
+
+- As an admin, I want to see my schedule so I can manage my work shift and breaks
+
+- As an admin, I want to see any incoming booking so I can accept or deny it
+
+- As an admin, I want to see the customer pickup location so I can assign the closest vehicle
+
+- As an admin, I want to see the customer vehicle choice so I can assign the most suitable vehicle
+
+- As an admin, I want to see the customer booking history so I can …
+
+- As an admin, I want to receive a notification when an order has been cancelled so I can free up the assigned vehicle
+
+- As an admin, I want to receive a notification when an order has been modified so I can do the necessary updates
+
+- As an admin, I want to receive a notification when an order has been completed so I can reassign the vehicle
+
+- As an admin, I want to receive a notification when an order has been paid so ….
+
+- As an admin, I want to run reports so I can have a better understanding on how the business is going
+
+- As an admin, I want to send messages to customers so I can inform them on any updated on their bookings
+
+
+
