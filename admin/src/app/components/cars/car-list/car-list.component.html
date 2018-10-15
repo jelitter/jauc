@@ -1,4 +1,4 @@
-<div class="card mt-5">
+<!-- <div class="card mt-5">
   <div class="card-body">
     <div class="card-title">
       <h6 class="text-center">List of Cars</h6>
@@ -34,4 +34,44 @@
   <div class="card-footer">
     JAUC cars
   </div>
+</div> -->
+
+<div class="mat-elevation-z8">
+
+  <table mat-table [dataSource]="carList" matSort class="mat-elevation-z8">
+
+    <ng-container matColumnDef="name">
+      <mat-header-cell *matHeaderCellDef mat-sort-header> Name </mat-header-cell>
+      <mat-cell *matCellDef="let car"> {{car.name}} </mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="plate">
+      <mat-header-cell *matHeaderCellDef mat-sort-header> Plate </mat-header-cell>
+      <mat-cell *matCellDef="let car"> {{car.plate}} </mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="lat">
+      <mat-header-cell *matHeaderCellDef mat-sort-header> Lat </mat-header-cell>
+      <mat-cell *matCellDef="let car"> {{car.lat}} </mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="lon">
+      <mat-header-cell *matHeaderCellDef mat-sort-header> Lon </mat-header-cell>
+      <mat-cell *matCellDef="let car"> {{car.lon}} </mat-cell>
+    </ng-container>
+
+    <!-- <ng-container matColumnDef="">
+      <mat-header-cell> Actions </mat-header-cell>
+      <mat-cell *matCellDef="let car">
+        <p>Edit</p>
+        <p>Delete</p>
+        
+
+      </mat-cell>
+    </ng-container> -->
+
+    <mat-header-row *matHeaderRowDef="displayedColumns; sticky: true"></mat-header-row>
+    <mat-row *matRowDef="let row; columns: displayedColumns;"></mat-row>
+  </table>
+  <mat-paginator [pageSizeOptions]="[5, 10, 20]" showFirstLastButtons></mat-paginator>
 </div>

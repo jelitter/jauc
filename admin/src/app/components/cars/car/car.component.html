@@ -1,4 +1,4 @@
-<div class="card mt-5">
+<!-- <div class="card mt-5">
   <div class="card-body">
     <form #carForm="ngForm" (ngSubmit)="onSubmit(carForm)">
       <input type="hidden" name="$key" #$key="ngModel" [(ngModel)]="carService.selectedCar.$key">
@@ -30,4 +30,44 @@
 
     </form>
   </div>
-</div>
+</div> -->
+
+<mat-card>
+  <mat-card-title>
+    Add Car
+  </mat-card-title>
+  <mat-card-content>
+    <form class="example-form" #carForm="ngForm" (ngSubmit)="onSubmit(carForm)">
+      <input type="hidden" name="$key" #$key="ngModel" [(ngModel)]="carService.selectedCar.$key">
+      <mat-form-field>
+        <input matInput placeholder="Car Name" [errorStateMatcher]="matcher" name="name" #name="ngModel" [(ngModel)]="carService.selectedCar.name">
+        <!-- <mat-hint>Car Name</mat-hint> -->
+        <mat-error *ngIf="carNameFormControl.hasError('carNameFormControl') && !carNameFormControl.hasError('required')">
+          Please enter a car name
+        </mat-error>
+        <mat-error *ngIf="carNameFormControl.hasError('required')">
+          Car Name is <strong>required</strong>
+        </mat-error>
+      </mat-form-field>
+
+      <br>
+
+      <mat-form-field>
+        <input matInput placeholder="Car Plate" [errorStateMatcher]="matcher" name="plate" #name="ngModel" [(ngModel)]="carService.selectedCar.plate">
+        <!-- <mat-hint>Car Plate</mat-hint> -->
+        <mat-error *ngIf="carPlateFormControl.hasError('carPlateFormControl') && !carPlateFormControl.hasError('required')">
+          Please enter a car plate
+        </mat-error>
+        <mat-error *ngIf="carPlateFormControl.hasError('required')">
+          Car Plate is <strong>required</strong>
+        </mat-error>
+      </mat-form-field>
+
+      <br>
+      <button mat-raised-button color="primary" [disabled]="!carService.selectedCar.name || !carService.selectedCar.plate"
+        class="btn btn-success" type="submit">Add</button>
+      <button mat-stroked-button color="primary">Reset</button>
+
+    </form>
+  </mat-card-content>
+</mat-card>
