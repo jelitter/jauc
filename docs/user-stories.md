@@ -48,13 +48,10 @@
 
 - As an admin, I want to see the customer vehicle choice so I can assign the most suitable vehicle
 
-- As an admin, I want to see the customer booking history so I can …
+- As an admin, I want to see the customer booking history so I can determine if the user is trustable to be serviced and doesn't have a bad history of unsettled invoices or anti social behaviour.
 
 - As an admin, I want to receive order status notifications so I can do the appropriate action
 
 - As an admin, I want to run reports so I can have a better understanding on how the business is going
 
 - As an admin, I want to send messages to customers so I can inform them on any updated on their bookings
-
-
-
