@@ -40,8 +40,6 @@
 
 - As an admin, I want to create other Administrator accounts so I can have other people working at the same time
 
-- As an admin, I want to see my schedule so I can manage my work shift and breaks
-
 - As an admin, I want to see any incoming booking so I can accept or deny it
 
 - As an admin, I want to see the customer pickup location so I can assign the closest vehicle
@@ -54,4 +52,4 @@
 
 - As an admin, I want to run reports so I can have a better understanding on how the business is going
 
-- As an admin, I want to send messages to customers so I can inform them on any updated on their bookings
+- As an admin, I want to send messages to customers so I can inform them on any updates on their bookings
