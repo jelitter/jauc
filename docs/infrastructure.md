@@ -1,5 +1,7 @@
 # System Infrastructure
 
+![Infrastructure Diagram](assets/img/app-infrastructure.png)
+
 ## Mobile Application
 
 Angular 6 will be used for the front-end application. This project will be started with the Angular CLI which already comes with Typescript, Karma, Jasmine, TSLint, etc...
