@@ -64,9 +64,15 @@
       </mat-form-field>
 
       <br>
+
       <button mat-raised-button color="primary" [disabled]="!carService.selectedCar.name || !carService.selectedCar.plate"
-        class="btn btn-success" type="submit">Add</button>
-      <button mat-stroked-button color="primary">Reset</button>
+        class="btn btn-success" type="submit">Add
+      </button>
+      <span></span>
+      <button mat-button color="primary" [disabled]="!carService.selectedCar.name && !carService.selectedCar.plate"
+        (click)="resetForm(carForm)">
+        Reset
+      </button>
 
     </form>
   </mat-card-content>

@@ -38,7 +38,7 @@
 
 <div class="mat-elevation-z8">
 
-  <table mat-table [dataSource]="carList" matSort class="mat-elevation-z8">
+  <table mat-table [dataSource]="carList" matSort>
 
     <ng-container matColumnDef="name">
       <mat-header-cell *matHeaderCellDef mat-sort-header> Name </mat-header-cell>
@@ -59,6 +59,11 @@
       <mat-header-cell *matHeaderCellDef mat-sort-header> Lon </mat-header-cell>
       <mat-cell *matCellDef="let car"> {{car.lon}} </mat-cell>
     </ng-container>
+
+    <!-- <ng-container matColumnDef="actions">
+      <mat-header-cell> Actions </mat-header-cell>
+      <mat-cell *matCellDef="let car"> <button>Hey</button> </mat-cell>
+    </ng-container> -->
 
     <!-- <ng-container matColumnDef="">
       <mat-header-cell> Actions </mat-header-cell>
