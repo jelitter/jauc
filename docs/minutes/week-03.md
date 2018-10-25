@@ -30,5 +30,6 @@ For next week the following tasks have been agreed on:
 - [X] Create different repos - Isaac
 - [X] Prepare Zube board for different repos - Manuel
 - [X] Finish documentation and send to project leader - Dominic
+- [X] Create Sequence Diagrams - Jesus
 
 ![Third group meeting](../assets/img/week03.jpg)
