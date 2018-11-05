@@ -16,6 +16,10 @@ This branch serves as a documentation repository for the project JAUC
 - Week 04 - No meeting was scheduled
 - [Week 05 - xx/11/2018](docs/minutes/week-05.md)
 
+## Sprint Reviews
+
+- [Week 04](docs/sprints/week-04.md)
+
 ## Other project documents
 
 - [Marking Scheme](docs/marks.md)
