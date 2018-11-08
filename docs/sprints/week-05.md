@@ -11,38 +11,41 @@
 
 During week 5 we worked on 12 issues worth 40 story points. 2 issues had to be moved into Week 6 sprint due to its complexity and lack of time to resolve.
 
-**Burndown chart**
+### Burndown chart
 
 ![Burndown chart](../assets/img/week5-burndown.png)
 
-**Sprint Backlog**
+### Sprint Backlog
 
 ![Sprint Backlog](../assets/img/week5-backlog.png)
 
-**Github Activity**
+### Github Activity
 
 ![Github Insights Mobile Project](../assets/img/week5-github-activity-mobile.png)
 
 ![Github Insights Arduino Project](../assets/img/week5-github-activity-arduino.png)
 
-**Android UI**
-Login Screen
+### Android UI
+
+#### Login Screen
+
 ![Android Login Screen](../assets/img/week5-android-login.png)
 
-Logout Toast
+#### Logout Toast
+
 ![Android Logout Toast](../assets/img/week5-android-toastlogout.png)
 
-**Android Social Media Login**
+### Android Social Media Login
 
 ![Login With Google Screen](../assets/img/week5-android-google.png)
 
 ![Login With Twitter](../assets/img/week5-android-twitter.png)
 
-**Admin page styling**
+### Admin page styling
 
 ![Styling done to admin page](../assets/img/week5-admin-styling.png)
 
-**Coordinates from Arduino board being stored in backend database**
+### Coordinates from Arduino board being stored in backend database
 
 ![Coordinates from Arduino board being stored in backend database](../assets/img/week4-arduino-firebase.png)
 
