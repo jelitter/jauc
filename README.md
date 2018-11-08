@@ -19,6 +19,7 @@ This branch serves as a documentation repository for the project JAUC
 ## Sprint Reviews
 
 - [Week 04](docs/sprints/week-04.md)
+- [Week 05](docs/sprints/week-05.md)
 
 ## Other project documents
 
