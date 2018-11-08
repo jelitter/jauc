@@ -9,7 +9,7 @@
 
 ## Any sprint documentation (sprintbacklog, user stories, designs, test etc.)
 
-During week 5 we worked on 12 issues worth 40 story points. 2 issues had to be moved into Week 6 sprint due to its complexity and lack of time to resolve.
+During week 5 we worked on 10 issues worth 37 story points. 4 issues had to be moved into Week 6 sprint due to its complexity and lack of time to resolve.
 
 ### Burndown chart
 
