@@ -13,9 +13,9 @@ Discuss general status of the project; challenges and successes. Next Steps.
 ### Project Status
 
 - [X] Create different repos - Isaac
-- [X]Prepare Zube board for different repos - Manuel
-- [X]Finish documentation and send to project leader - Dominic
-- [X]Create Sequence Diagrams - Jesus
+- [X] Prepare Zube board for different repos - Manuel
+- [X] Finish documentation and send to project leader - Dominic
+- [X] Create Sequence Diagrams - Jesus
 
 ## Points to Discuss
 - How to avoid duplicate work; at the beginning of the week, grab a backlog card and stick to it
