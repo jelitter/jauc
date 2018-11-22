@@ -2,13 +2,21 @@
 
 ## Sprint deliverables (viable working product) as agreed in sprint back log
 
-- 
+*Android end-user app*
+- Splash screen
+- hardned login code
 
-## Any sprint documentation (sprintbacklog, user stories, designs, test etc.)
+*Admin interface*
+- simplified interface in favour of Material design guidelines
+- basic dashboard layout page added
+- started with review models, advancing implementations and retraints
+- decided on graph-ui framework KendoUI
+- implemented 
 
-During week 7 we worked on XXXXX issues worth XXXX story points. XXXX issues had to be moved into Week 8 sprint due to its complexity and lack of time to resolve.
+*Middleware*
+- Started implementation of database middleware
+- includes REST API gateway to do CRUD operations on the live database
 
--
 
 ### Burndown chart
 
@@ -24,10 +32,11 @@ During week 7 we worked on XXXXX issues worth XXXX story points. XXXX issues had
 
 ![Github Insights Admin Project](../assets/img/week7-github-activity-admin.png)
 
-![Github Insights Arduino Project](../assets/img/week7-github-activity-arduino.png)
+![Github Insights Server Middleware Project](../assets/img/week7-github-activity-middleware.png)
 
 ![Github Insights Project Documentation](../assets/img/week7-github-activity-docs.png)
 
 ## Sprint retrospective/review documentation
 
-- 
+Given the added work load of other assignments, progress hasn't been as fast as during the initial start-up weeks.
+However, based on an continuous effort from all parts of the team, we were able to progress on major interface issues such as admin dashboards and end-user interfaces for the Android app.
