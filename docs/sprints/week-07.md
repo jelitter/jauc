@@ -5,13 +5,14 @@
 *Android end-user app*
 - Splash screen
 - hardned login code
+- investigated map integration
+- tweaking interface
 
 *Admin interface*
 - simplified interface in favour of Material design guidelines
 - basic dashboard layout page added
 - started with review models, advancing implementations and retraints
 - decided on graph-ui framework KendoUI
-- implemented 
 
 *Middleware*
 - Started implementation of database middleware
