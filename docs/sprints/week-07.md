@@ -13,6 +13,7 @@
 - basic dashboard layout page added
 - started with review models, advancing implementations and retraints
 - decided on graph-ui framework KendoUI
+- realtime booking overview
 
 *Middleware*
 - Started implementation of database middleware
@@ -37,7 +38,17 @@
 
 ![Github Insights Project Documentation](../assets/img/week7-github-activity-docs.png)
 
+### Screenshots
+
+![Github Admin Stats](../assets/img/week7-jauc-admin-car-stats.png)
+
+![Github Admin Booking](../assets/img/week7-jauc-admin-booking.png)
+
+
 ## Sprint retrospective/review documentation
 
 Given the added work load of other assignments, progress hasn't been as fast as during the initial start-up weeks.
 However, based on an continuous effort from all parts of the team, we were able to progress on major interface issues such as admin dashboards and end-user interfaces for the Android app.
+
+Major work on the Arduino GPS tracker has been completed and is currently on hold.
+In case we require addtional parameters to be transferred, we'll do adjustments accordingly.
