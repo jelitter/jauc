@@ -40,9 +40,9 @@
 
 ### Screenshots
 
-![Github Admin Stats](../assets/img/week9-jauc-admin-car-stats.png)
+![Github Admin Car Management](../assets/img/week9-jauc-admin-car-stats.png)
 
-![Github Admin Booking](../assets/img/week9-jauc-admin-booking.png)
+![Github Admin Reports](../assets/img/week9-jauc-admin-report-dashboard.png)
 
 
 ## Sprint retrospective/review documentation
