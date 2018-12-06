@@ -39,7 +39,7 @@
 
 ## Sprint retrospective/review documentation
 
-The past two weeks have been very slow; mainly bound by other commitments, progress was minimal.
+The past two weeks have been very slow; mainly bound by other commitments such as other assignments, progress was minimal.
 There was some refactoring work done as well as middle-ware created to manage mobile app requests.
 
 As a team we decided to clear all outside assignments first as their deadline is closer and frees up mind capacity for us to focus work purely on the project for the last month.
