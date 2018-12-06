@@ -20,21 +20,13 @@
 - includes REST API gateway to do CRUD operations on the live database
 
 
-### Burndown chart
-
-![Burndown chart](../assets/img/week9-burndown.png)
-
 ### Sprint Backlog
 
 ![Sprint Backlog](../assets/img/week9-backlog.png)
 
 ### Github Activity
 
-![Github Insights Mobile Project](../assets/img/week9-github-activity-mobile.png)
-
 ![Github Insights Admin Project](../assets/img/week9-github-activity-admin.png)
-
-![Github Insights Server Middleware Project](../assets/img/week9-github-activity-middleware.png)
 
 ![Github Insights Project Documentation](../assets/img/week9-github-activity-docs.png)
 
