@@ -1,4 +1,4 @@
-# Week 09 Meeting
+# Week 09/10 Meeting
 
 Attendees: 
 - **Manuel**
@@ -27,3 +27,5 @@ For next week the following tasks have been agreed on:
 
 - Solve code-base conflicts
 - Deliver an App prototype
+
+![Week 09 group meeting](../assets/img/week10-meeting.jpg)
