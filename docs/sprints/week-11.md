@@ -48,4 +48,5 @@ With plenty of distractions around, three major goals are set for the time until
  - Mobile app implementation
  - Middleware
  - Presentation
+ 
 We are aware that a full implementation over the next 2 weeks to the presentation date is unlikely, however we will push ourselves to deliver a sensible prototype that actually works.
