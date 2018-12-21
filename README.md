@@ -26,7 +26,7 @@ This branch serves as a documentation repository for the project JAUC
 - [Week 05](docs/sprints/week-05.md)
 - [Week 06](docs/sprints/week-06.md)
 - [Week 07](docs/sprints/week-07.md)
-- [Week 10](docs/sprints/week-10.md)
+- [Week 11](docs/sprints/week-11.md)
 
 ## Other project documents
 

@@ -21,10 +21,6 @@
 - Clarify presentation context
 - Create presentation framework
 
-### Burndown chart
-
-![Burndown chart](../assets/img/week10-burndown.png)
-
 ### Sprint Backlog
 
 ![Sprint Backlog](../assets/img/week10-backlog.png)
@@ -41,9 +37,7 @@
 
 ### Screenshots
 
-![Github Admin Stats](../assets/img/week10-jauc-admin-car-stats.png)
-
-![Github Admin Booking](../assets/img/week10-jauc-admin-booking.png)
+![Github Mobile Map](../assets/img/week10-screenshot-mobile-map.png)
 
 
 ## Sprint retrospective/review documentation
@@ -54,4 +48,5 @@ With plenty of distractions around, three major goals are set for the time until
  - Mobile app implementation
  - Middleware
  - Presentation
+ 
 We are aware that a full implementation over the next 2 weeks to the presentation date is unlikely, however we will push ourselves to deliver a sensible prototype that actually works.
