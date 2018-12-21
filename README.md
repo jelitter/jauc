@@ -18,7 +18,7 @@ This branch serves as a documentation repository for the project JAUC
 - [Week 06 - 12/11/2018](docs/minutes/week-06.md)
 - Week 07 - No meeting was scheduled
 - Week 08 - No meeting was scheduled
-- [Week 09 - 14/12/2018](docs/minutes/week-09.md)
+- [Week 09/10 - 14/12/2018](docs/minutes/week-09.md)
 
 ## Sprint Reviews
 
